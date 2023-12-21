@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673124810103",
+    "project_id": "proyectom4a-c2b39",
+    "storage_bucket": "proyectom4a-c2b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673124810103:android:9f0db41b69f4e8081c3572",
+        "android_client_info": {
+          "package_name": "com.ista.LoginFireBase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1_0Pk9a3n25bFLrAxnlD2442rkh5dLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673124810103:android:4aa46cae7cb2380c1c3572",
+        "android_client_info": {
+          "package_name": "com.ista.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1_0Pk9a3n25bFLrAxnlD2442rkh5dLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
